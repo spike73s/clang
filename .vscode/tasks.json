@@ -12,7 +12,6 @@
         "label": "C++ compile & execute",
         "command": "c++",
         "args": [
-          "-g",
           "${file}",
           "-o",
           "${fileDirname}/${fileBasenameNoExtension}",
@@ -41,7 +40,6 @@
         "label": "C compile & execute",
         "command": "cc",
         "args": [
-          "-g",
           "${file}",
           "-o",
           "${fileDirname}/${fileBasenameNoExtension}",
