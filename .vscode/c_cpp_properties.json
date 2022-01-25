@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "Mac OSX",
+            "name": "FreeBSD",
             "includePath": [
                 "${workspaceFolder}/**"
             ],
@@ -9,7 +9,7 @@
             "compilerPath": "/usr/bin/clang",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "macos-clang-x64"
+            "intelliSenseMode": "clang-x64"
         }
     ],
     "version": 4
