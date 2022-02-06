@@ -2,3 +2,4 @@ hello
 .gitignore
 hello.dSYM/*
 ex9-1
+example/*
